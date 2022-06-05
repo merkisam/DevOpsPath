@@ -10,7 +10,7 @@ DevOps Prototype
 * Node and NPM (https://nodejs.org/)
 * Java SDK 12 (https://www.oracle.com/java/technologies/javase-jdk12-doc-downloads.html)
 
-## Installation
+## Installation 
 * Clone repository with Git
 * Open a console/terminal window and change directory to frontend:
 ```
